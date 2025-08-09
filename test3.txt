@@ -1,0 +1,7 @@
+This is test data for test3.txt
+Line 1: Sample data entry
+Line 2: Another test entry
+Line 3: Final test data point
+Date: 2024-01-01
+Status: Active
+Value: 12345
